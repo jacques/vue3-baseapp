@@ -1,6 +1,6 @@
 # vue3-baseapp
 
-This template should help get you started developing with Vue 3 in Vite.
+Opionated Vue 3 template with Vite.
 
 ## Recommended IDE Setup
 
